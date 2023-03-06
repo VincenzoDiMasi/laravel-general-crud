@@ -1,0 +1,26 @@
+#col {
+    height: 550px;
+
+    .img {
+        margin-bottom: 1rem;
+        height: 35%;
+
+        img {
+            height: 100%;
+            width: 100%;
+        }
+    }
+
+    #card {
+        position: relative;
+
+        #btn {
+            width: 15%;
+            position: absolute;
+            top: 83%;
+            left: 40%;
+            right: 40%;
+        }
+    }
+
+}
